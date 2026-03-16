@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://betnjetcasino-online.com/
+Sitemap: https://betnjetcasino-online.com/sitemap.xml
